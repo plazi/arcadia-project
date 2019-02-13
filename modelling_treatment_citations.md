@@ -57,17 +57,19 @@ Treatment Citations are themselves weakly and directly modeled, however. The ont
 * cite other treatments as articles with part information as subproperties
 * effective, but fairly blunt and may be confusing outside of closed system
 
+example: http://treatment.plazi.org/GgServer/lodRdf/03EB87D6144AFFBAFF19703B1B5EF9A7
+
 ## Proposals
 
 * following OpenBiodiv-O
   * Treatments are frbr:Expressions or something similar realizing Taxon Concepts
-  * as frbr:expression has properties of relevant bibliographic ontologies (esp FaBIO, DOCO)
+  * as frbr:expression has properties of relevant bibliographic ontologies (esp SPAR, FaBIO, DOCO)
 * following Treatment Ontology
   * Treatments cito:cite and are cito:citedBy other Treatments
 * Following both Taxon or TaxonConcepts have relevant DWC subproperties
 * perhaps Treatments are instances of or a subclass of TaxonomicNameUsage
 * extend cito:cites subclass to address specific citings done among treatments e.g., synonymization
-* adopt widely useful pragmatic features of Plazi LOD
+* adopt generally useful pragmatic features of Plazi LOD
 
 ## Revised TaxPub model
 
