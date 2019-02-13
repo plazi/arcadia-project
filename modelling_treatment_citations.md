@@ -10,7 +10,7 @@ are *treatment citations* (in TaxPub, "nomeclature-citations"), described by [(W
 
 >[citations] of all the names that have been used in published references to [the described] taxon
 
-Therefore, from any treatment, and from treatment to cited treatment, a extensive citation network may be derived the entire history of understanding of a taxon to a given point. This is valuable in many cases, such as when work in one domain (say environmental policy) is based on a taxon name which have been superseded as the accepted name.
+Therefore, from any treatment, and from treatment to cited treatment, a extensive citation network may be derived revealing the entire history of understanding of a taxon to a given point. This is valuable in many cases, such as when work in one domain (say environmental policy) is based on a taxon name which have been superseded as the accepted name.
 
 As significant citeable entities, treatments and their citations would benefit from more precise modeling to enable more effective use of the information latent in their content and among their relations.
 
@@ -86,11 +86,11 @@ example: http://treatment.plazi.org/GgServer/lodRdf/03EB87D6144AFFBAFF19703B1B5E
 
 
 ## References
-<span href="#catapano-2010">Catapano T. TaxPub: An Extension of the NLM/NCBI Journal Publishing DTD for Taxonomic Descriptions. In: Journal Article Tag Suite Conference (JATS-Con) Proceedings 2010 [Internet]. Bethesda (MD): National Center for Biotechnology Information (US); 2010. Available from: https://www.ncbi.nlm.nih.gov/books/NBK47081/ </span>
+* <span href="#catapano-2010">Catapano T. TaxPub: An Extension of the NLM/NCBI Journal Publishing DTD for Taxonomic Descriptions. In: Journal Article Tag Suite Conference (JATS-Con) Proceedings 2010 [Internet]. Bethesda (MD): National Center for Biotechnology Information (US); 2010. Available from: https://www.ncbi.nlm.nih.gov/books/NBK47081/ </span>
 
-<span href="#morris-catapano-2016">Morris, R & Catapano, T. Treatment Ontology. 2016 Available from https://github.com/plazi/TreatmentOntologies) </span>
+* <span href="#morris-catapano-2016">Morris, R & Catapano, T. Treatment Ontology. 2016 Available from https://github.com/plazi/TreatmentOntologies) </span>
 
-<span href="#senderov-2018">Senderov, Viktor, Kiril Simov, Nico Franz, Pavel Stoev, Terry Catapano, Donat Agosti, Guido Sautter, Robert A. Morris, and Lyubomir Penev. “OpenBiodiv-O: Ontology of the OpenBiodiv Knowledge Management System.” Journal of Biomedical Semantics 9, no. 1 (January 18, 2018): 5. https://doi.org/10.1186/s13326-017-0174-5.
+* <span href="#senderov-2018">Senderov, Viktor, Kiril Simov, Nico Franz, Pavel Stoev, Terry Catapano, Donat Agosti, Guido Sautter, Robert A. Morris, and Lyubomir Penev. “OpenBiodiv-O: Ontology of the OpenBiodiv Knowledge Management System.” Journal of Biomedical Semantics 9, no. 1 (January 18, 2018): 5. https://doi.org/10.1186/s13326-017-0174-5.
 </span>
 
-<span href="#Winston-1999">Winston J. Describing Species. New York: Columbia University Press; 1999. p. 136</span>
+* <span href="#Winston-1999">Winston J. Describing Species. New York: Columbia University Press; 1999. p. 136</span>
