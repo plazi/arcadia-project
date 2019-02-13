@@ -69,6 +69,20 @@ Treatment Citations are themselves weakly and directly modeled, however. The ont
 * extend cito:cites subclass to address specific citings done among treatments e.g., synonymization
 * adopt widely useful pragmatic features of Plazi LOD
 
+## Revised TaxPub model
+
+### Review
+* existing model works, if too restrictive
+* must be sufficient to convert programmatically to minimum required formal LOD expression
+
+### Proposals
+  * rename "nomenclature-citation" "treatment-citation"
+  * loosen restrictions on where available
+  * use mixed-content model
+  * attributes to refine semantics of citation
+
+
+
 ## References
 <span href="#catapano-2010">Catapano T. TaxPub: An Extension of the NLM/NCBI Journal Publishing DTD for Taxonomic Descriptions. In: Journal Article Tag Suite Conference (JATS-Con) Proceedings 2010 [Internet]. Bethesda (MD): National Center for Biotechnology Information (US); 2010. Available from: https://www.ncbi.nlm.nih.gov/books/NBK47081/ </span>
 
