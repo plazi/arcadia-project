@@ -40,11 +40,34 @@ As significant citeable entities, treatments and their citations would benefit f
 
 * Utilizes Concept Taxonomy framework
 * TaxonConcept
- * is a subclass of both frbr:Work and a skos:Concept
- * Treatment is equivalent class to dwc:Taxon
+  * is a subclass of both frbr:Work and a skos:Concept
+  * Treatment is equivalent class to dwc:Taxon
 * TaxonConcept as frbr:Work:
- * has frbr:realization Treatment
- * Treatment is a frbr:Expression
+  * has frbr:realization Treatment
+* Treatment is a frbr:Expression
+  * has all relevant properties of frbr:Expression
+
+Treatment Citations are themselves weakly and directly modeled, however. The ontology creates classes for document components based on TaxPub elements including `NomenclatureCitationList` which itself `contains` instances of the class `TaxonomicNameUsage` which itself is extensively modelled to highly granular levels.
+
+### Synospecies/LINDAS/Plazi LOD
+
+[*need to investigate further*]
+* Treatments treatTaxonName [TaxonName]
+* TaxonName has dwc subproperties
+* cite other treatments as articles with part information as subproperties
+* effective, but fairly blunt and may be confusing outside of closed system
+
+## Proposals
+
+* following OpenBiodiv-O
+  * Treatments are frbr:Expressions or something similar realizing Taxon Concepts
+  * as frbr:expression has properties of relevant bibliographic ontologies (esp FaBIO, DOCO)
+* following Treatment Ontology
+  * Treatments cito:cite and are cito:citedBy other Treatments
+* Following both Taxon or TaxonConcepts have relevant DWC subproperties
+* perhaps Treatments are instances of or a subclass of TaxonomicNameUsage
+* extend cito:cites subclass to address specific citings done among treatments e.g., synonymization
+* adopt widely useful pragmatic features of Plazi LOD
 
 ## References
 <span href="#catapano-2010">Catapano T. TaxPub: An Extension of the NLM/NCBI Journal Publishing DTD for Taxonomic Descriptions. In: Journal Article Tag Suite Conference (JATS-Con) Proceedings 2010 [Internet]. Bethesda (MD): National Center for Biotechnology Information (US); 2010. Available from: https://www.ncbi.nlm.nih.gov/books/NBK47081/ </span>
