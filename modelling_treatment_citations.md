@@ -28,7 +28,7 @@ As significant citeable entities, treatments and their citations would benefit f
 
 ### Treatment tagging in GoldenGate XML
 
-`<treatment>
+```<treatment>
      <subSubSection type=nomenclature>
      </subSubSection>
      <subSubSection type=reference_group>
@@ -49,8 +49,8 @@ As significant citeable entities, treatments and their citations would benefit f
                </treatmentCitation>
           </treatmentCitationGroup>
      </subSubSection type=reference_group>
-</treatment>`
-
+</treatment>
+```
 
 ### Treament Ontology
 ([Morris and Catapano, 2016](#morris-catapano-2016))
