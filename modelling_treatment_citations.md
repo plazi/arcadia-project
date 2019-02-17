@@ -93,4 +93,4 @@ example: http://treatment.plazi.org/GgServer/lodRdf/03EB87D6144AFFBAFF19703B1B5E
 * <span href="#senderov-2018">Senderov, Viktor, Kiril Simov, Nico Franz, Pavel Stoev, Terry Catapano, Donat Agosti, Guido Sautter, Robert A. Morris, and Lyubomir Penev. “OpenBiodiv-O: Ontology of the OpenBiodiv Knowledge Management System.” Journal of Biomedical Semantics 9, no. 1 (January 18, 2018): 5. https://doi.org/10.1186/s13326-017-0174-5.
 </span>
 
-* <span href="#Winston-1999">Winston J. Describing Species. New York: Columbia University Press; 1999. p. 136</span>
+* <span href="#Winston-1999">Winston J. Describing Species. New York: Columbia University Press; 1999. p. 136</span> available here https://drive.google.com/open?id=1Xfnhq4oAwId_S96rXZYgyDCE1knhVV3o.
