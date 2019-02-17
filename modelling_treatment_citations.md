@@ -16,6 +16,11 @@ As significant citeable entities, treatments and their citations would benefit f
 
 ## Conceptual/Ontological Models of treatments
 
+### Treatment notes in Plazi
+
+* [Treatment](https://github.com/plazi/Plazi-Communications/wiki/Treatment), including many links to previous works done in Plazi
+* ongoing manuscripts [Treatments](https://docs.google.com/document/d/1cJ1NhH2mMcOvmD8V2ulmi1HpNxn-67ocbSG-LiWmmJ8/edit#heading=h.iqdt6oqetjrp); [Taxonomic treatments in a nutshell](https://docs.google.com/document/d/1sfVskKuBTp5Y67IUQTVZADkUDo8TZIqeM16aKmF13f8/edit?ts=5c66ccd9)
+
 ### Treament Ontology
 ([Morris and Catapano, 2016](#morris-catapano-2016))
 
