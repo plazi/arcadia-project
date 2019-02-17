@@ -56,6 +56,7 @@ As significant citeable entities, treatments and their citations would benefit f
      </subSubSection type=reference_group>
 </treatment>
 ```
+[Example](http://treatment.plazi.org/GgServer/xml/03A10B47FFEBFF93FDB2FBB6FB4DFBF5)
 
 ### Treament Ontology
 ([Morris and Catapano, 2016](#morris-catapano-2016))
