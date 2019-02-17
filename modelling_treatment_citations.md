@@ -21,6 +21,37 @@ As significant citeable entities, treatments and their citations would benefit f
 * [Treatment](https://github.com/plazi/Plazi-Communications/wiki/Treatment), including many links to previous works done in Plazi
 * ongoing manuscripts [Treatments](https://docs.google.com/document/d/1cJ1NhH2mMcOvmD8V2ulmi1HpNxn-67ocbSG-LiWmmJ8/edit#heading=h.iqdt6oqetjrp); [Taxonomic treatments in a nutshell](https://docs.google.com/document/d/1sfVskKuBTp5Y67IUQTVZADkUDo8TZIqeM16aKmF13f8/edit?ts=5c66ccd9)
 
+### Treatment data dictionary used in BLR
+
+* [Treatment data dictionary](https://docs.google.com/spreadsheets/d/10uluNbkcu0CfNRog_uOnx_6ytXUSvdH6gx9xltGPqlk/edit#gid=1415791436). See sheet "Final"
+* [Treatment feature request](https://docs.google.com/document/d/1X2hDlHJEg8cfZIEChzarfzYU04BPOjxT_qFZI_jFIdQ/edit)
+
+### Treatment tagging in GoldenGate XML
+
+`<treatment>
+     <subSubSection type=nomenclature>
+     </subSubSection>
+     <subSubSection type=reference_group>
+          <treatmentCitationGroup>
+               <taxonomicName>
+               </taxonomicName>
+               <treatmentCitation>
+               </treatmentCitation>
+               <treatmentCitation>
+               </treatmentCitation>
+          </treatmentCitationGroup>
+          <treatmentCitationGroup>
+               <taxonomicName>
+               </taxonomicName>
+               <treatmentCitation>
+               </treatmentCitation>
+               <treatmentCitation>
+               </treatmentCitation>
+          </treatmentCitationGroup>
+     </subSubSection type=reference_group>
+</treatment>`
+
+
 ### Treament Ontology
 ([Morris and Catapano, 2016](#morris-catapano-2016))
 
