@@ -37,6 +37,10 @@ As significant citeable entities, treatments and their citations would benefit f
                <taxonomicName>
                </taxonomicName>
                <treatmentCitation>
+                    <bibRefCitation>
+                    </bibRefCitation>
+                    <bibRefCitation>
+                    </bibRefCitation>
                </treatmentCitation>
                <treatmentCitation>
                </treatmentCitation>
