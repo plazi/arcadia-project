@@ -70,6 +70,7 @@ Alternatively, if there is only one reference per taxonomic name, then treatment
       </treatmentCitation>
 </subSubSection type=reference_group>
 ```
+Add an example!
 
 Free text and `<materialsCitation>` can appear in `<treatmentCitation>` or `<treatmentCitationGroup>`.
 
