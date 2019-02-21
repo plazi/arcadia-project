@@ -71,7 +71,7 @@ Alternatively, if there is only one reference per taxonomic name, then treatment
 </subSubSection type=reference_group>
 ```
 
-Free text can appear in `<treatmentCitation>` or `<treatmentCitationGroup>`, as well as `<materialsCitation>`
+Free text and `<materialsCitation>` can appear in `<treatmentCitation>` or `<treatmentCitationGroup>`.
 
 ### Treament Ontology
 ([Morris and Catapano, 2016](#morris-catapano-2016))
