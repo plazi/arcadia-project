@@ -58,6 +58,21 @@ As significant citeable entities, treatments and their citations would benefit f
 ```
 [Example](http://treatment.plazi.org/GgServer/xml/03A10B47FFEBFF93FDB2FBB6FB4DFBF5)
 
+Alternatively, if there is only one reference per taxonomic name, then treatment citation can be tagged as follows:
+
+```
+ <subSubSection type=reference_group>
+      <treatmentCitation>
+           <taxonomicName>
+           </taxonomicName>
+           <bibRefCitation>
+           </bibRefCitation>
+      </treatmentCitation>
+</subSubSection type=reference_group>
+```
+
+Free text can appear in `<treatmentCitation>` or `<treatmentCitationGroup>`, as well as `<materialsCitation>`
+
 ### Treament Ontology
 ([Morris and Catapano, 2016](#morris-catapano-2016))
 
