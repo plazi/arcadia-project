@@ -16,7 +16,51 @@ As significant citeable entities, treatments and their citations would benefit f
 
 ## Conceptual/Ontological Models of treatments
 
-### Treatment notes in Plazi
+### Treament Ontology
+([Morris and Catapano, 2016](#morris-catapano-2016))
+
+* OWL ontology
+* tmt:treatment, with properties
+ * tmt:definesTaxonConcept A
+ * tmt:publishedIn B
+ * cito:cites C
+
+   * where
+
+     * A is a dwcFP:Taxon (Darwin Core Filtered Push) with Darwin Core properties
+     * B is the source publication with properties from an appropriate ontology (e.g., BIBO, FaBIO, etc...)
+     * C is a tmt:treatment
+
+* cito:cites could be refined by any of its subproperties see http://purl.org/spar/cito/cites
+
+* did not well model the properties of the publication component corresponding to the treatment (e.g, page range), for this DOCO could be used
+
+### OpenBiodiv-O
+([Senderov, V et al 2018](#senderov-2018))
+
+* Utilizes Concept Taxonomy framework
+* TaxonConcept
+  * is a subclass of both frbr:Work and a skos:Concept
+  * Treatment is equivalent class to dwc:Taxon
+* TaxonConcept as frbr:Work:
+  * has frbr:realization Treatment
+* Treatment is a frbr:Expression
+  * has all relevant properties of frbr:Expression
+
+Treatment Citations are themselves weakly and directly modeled, however. The ontology creates classes for document components based on TaxPub elements including `NomenclatureCitationList` which itself `contains` instances of the class `TaxonomicNameUsage` which itself is extensively modelled to highly granular levels.
+
+### Synospecies/LINDAS/Plazi LOD
+
+[*need to investigate further*]
+* Treatments treatTaxonName [TaxonName]
+* TaxonName has dwc subproperties
+* cite other treatments as articles with part information as subproperties
+* effective, but fairly blunt and may be confusing outside of closed system
+
+example: http://treatment.plazi.org/GgServer/lodRdf/03EB87D6144AFFBAFF19703B1B5EF9A7
+
+
+## Plazi Internal Modelling
 
 * [Treatment](https://github.com/plazi/Plazi-Communications/wiki/Treatment), including many links to previous works done in Plazi
 * ongoing manuscripts [Treatments](https://docs.google.com/document/d/1cJ1NhH2mMcOvmD8V2ulmi1HpNxn-67ocbSG-LiWmmJ8/edit#heading=h.iqdt6oqetjrp); [Taxonomic treatments in a nutshell](https://docs.google.com/document/d/1sfVskKuBTp5Y67IUQTVZADkUDo8TZIqeM16aKmF13f8/edit?ts=5c66ccd9)
@@ -74,48 +118,6 @@ Add an example!
 
 Free text and `<materialsCitation>` can appear in `<treatmentCitation>` or `<treatmentCitationGroup>`.
 
-### Treament Ontology
-([Morris and Catapano, 2016](#morris-catapano-2016))
-
-* OWL ontology
-* tmt:treatment, with properties
- * tmt:definesTaxonConcept A
- * tmt:publishedIn B
- * cito:cites C
-
-   * where
-
-     * A is a dwcFP:Taxon (Darwin Core Filtered Push) with Darwin Core properties
-     * B is the source publication with properties from an appropriate ontology (e.g., BIBO, FaBIO, etc...)
-     * C is a tmt:treatment
-
-* cito:cites could be refined by any of its subproperties see http://purl.org/spar/cito/cites
-
-* did not well model the properties of the publication component corresponding to the treatment (e.g, page range), for this DOCO could be used
-
-### OpenBiodiv-O
-([Senderov, V et al 2018](#senderov-2018))
-
-* Utilizes Concept Taxonomy framework
-* TaxonConcept
-  * is a subclass of both frbr:Work and a skos:Concept
-  * Treatment is equivalent class to dwc:Taxon
-* TaxonConcept as frbr:Work:
-  * has frbr:realization Treatment
-* Treatment is a frbr:Expression
-  * has all relevant properties of frbr:Expression
-
-Treatment Citations are themselves weakly and directly modeled, however. The ontology creates classes for document components based on TaxPub elements including `NomenclatureCitationList` which itself `contains` instances of the class `TaxonomicNameUsage` which itself is extensively modelled to highly granular levels.
-
-### Synospecies/LINDAS/Plazi LOD
-
-[*need to investigate further*]
-* Treatments treatTaxonName [TaxonName]
-* TaxonName has dwc subproperties
-* cite other treatments as articles with part information as subproperties
-* effective, but fairly blunt and may be confusing outside of closed system
-
-example: http://treatment.plazi.org/GgServer/lodRdf/03EB87D6144AFFBAFF19703B1B5EF9A7
 
 ## Proposals
 
