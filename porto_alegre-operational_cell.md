@@ -33,3 +33,13 @@ The idea is to at least provide two monitors per person, as the template making 
 ## Sallary
 
 The estimate sallary is a little bit above the current value of PhD fellowships in Brazil, as we're targetting recent PhDs with expertise in taxonomy. Current PhD fellowship would be R$2.200,00 (or ~ 500,00 euros).
+
+## People Selection
+
+I'm trying to follow these criteria in order to find people:
+
+1. Expertise in taxonomy, preferably at PhD level
+2. Can get around software, doesn't struggle with technology
+3. Can speak English
+4. Lives in Porto Alegre
+5. Interested in data/mission
