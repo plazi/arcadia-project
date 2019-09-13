@@ -43,3 +43,7 @@ I'm trying to follow these criteria in order to find people:
 3. Can speak English
 4. Lives in Porto Alegre
 5. Interested in data/mission
+
+## Things to consider
+
+1. What to do with the equipments once the operation is closed?
