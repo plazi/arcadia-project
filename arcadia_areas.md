@@ -16,7 +16,7 @@
     * intferface
     * api
     * functionality
-### BLR Website
+### [BLR Website](https://github.com/plazi/arcadia-project/wiki/BLR-Website)
     * functionality
     * design, look and feel, UI/UX
     * cotent creation and management
