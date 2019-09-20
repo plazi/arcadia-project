@@ -1,31 +1,33 @@
-* content acquisition and staging
+## Arcadia Areas of Activity
+
+### content acquisition and staging
     * pdf
     * keyboarded dcl
     * inhouse scanning and ocr
     * web scraping
 
-* processing workflow
+### processing workflow
     * templates
     * processing
     * qc
     * metrics, KPI
-* Zenodo
+### Zenodo
     * metadata
     * intferface
     * api
     * functionality
-* BLR Website
+### BLR Website
     * functionality
     * design, look and feel, UI/UX
     * cotent creation and management
     * dashboards
     * infrastructure, deployment, monitoring
-* Outreach
+### Outreach
     * events (conferences, meetings, etc…)
     * social media & PR
     * movies
     * papers, presentations, public
-* Infrastructure
+### Infrastructure and Tools
     * GoldenGATE
         * features
         * testing
@@ -38,11 +40,11 @@
     * Digital Ocean
     * Tech support for remote work
     * Other platforms (github, GD, etc…)
-* Outsourcing
+### Outsourcing
     * Porto Allegre
     * DCL
-* Administration
+### Administration
     * reporting
     * budgeting/planning
     * development
-* Research and Collaboration
+### Research and Collaboration
