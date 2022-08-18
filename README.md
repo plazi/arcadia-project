@@ -8,6 +8,6 @@
 
 * [Inveniosoftware](https://github.com/inveniosoftware/invenio-app-rdm)
 * Arcadia 1
-* Arcadia 2
-  ** [management](https://github.com/plazi/arcadia-2) (restricted access)
-  **
+* Arcadia 2 
+  * [management](https://github.com/plazi/arcadia-2) (restricted access)
+  *
