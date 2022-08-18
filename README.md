@@ -12,18 +12,20 @@
   - end date: June 30, 2025
 - Meetings:
   - 2022
-    - Arcadia sprint 1 at CERN. Sep 26-30, 2022
+    - Sep 26-30, 2022. Arcadia sprint 1 at CERN. 
   - 2023
-    - Arcadia sprint 2 at CERN
-    - Arcadia sprint 3 at CERN
+    - Feb 2023. Arcadia sprint 2 at CERN
+    - Sep 2023. Arcadia sprint 3 at CERN
   - 2024
-    - Arcadia sprint 4 at CERN
-    - Bouchout +10, Disentis
+    - Aug 19-21, 2024. Arcadia sprint 4 at CERN
+    - Aug 21-24, 2024. [Bouchout +10, Disentis](https://github.com/plazi/bouchout-10)
     - Arcadia sprint 5 in Disentis
   - 2025
-    - Arcadia sprint 5 at CERN
+    - Feb 2025. Arcadia sprint 5 at CERN
 - [management](https://github.com/plazi/arcadia-2) (restricted access)
-  *
+- Partners
+  - [anestore/IIIF service in Zenodo](https://github.com/plazi/collaborations_services/issues/94) 
+  - [Data Futures](https://github.com/plazi/collaborations_services/projects/8)
 
 ## Related Projects
 
