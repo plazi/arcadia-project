@@ -12,7 +12,7 @@
   - end date: June 30, 2025
 - Meetings:
   - 2022
-    - Sep 26-30, 2022. Arcadia sprint 1 at CERN. 
+    - Sep 26-30, 2022. [Arcadia sprint 1 at CERN](https://github.com/plazi/arcadia-2/blob/main/sprint%201%2020220930.md). 
   - 2023
     - Feb 2023. Arcadia sprint 2 at CERN
     - Sep 2023. Arcadia sprint 3 at CERN
