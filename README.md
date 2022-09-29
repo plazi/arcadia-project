@@ -27,6 +27,10 @@
   - [anestore/IIIF service in Zenodo](https://github.com/plazi/collaborations_services/issues/94) 
   - [Data Futures](https://github.com/plazi/collaborations_services/projects/8)
 
+## BLR Architecture
+
+![Reference architecture](blr-reference-architecture.drawio.png)
+
 ## Related Projects
 
 * [Inveniosoftware](https://github.com/inveniosoftware/invenio-app-rdm)
