@@ -29,7 +29,7 @@
 
 ## BLR Architecture
 
-![Reference architecture](blr-reference-architecture.drawio.png)
+![Reference architecture](blr-architecture.drawio.png)
 
 ## Related Projects
 
