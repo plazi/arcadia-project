@@ -32,5 +32,5 @@
 ![Reference architecture](blr-architecture.drawio.png)
 
 ## Related Projects
-
+* see also for [annotations ascription at DF](https://github.com/data-futures/ascription-project)
 * [Inveniosoftware](https://github.com/inveniosoftware/invenio-app-rdm)
