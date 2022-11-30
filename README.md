@@ -32,5 +32,6 @@
 ![Reference architecture](blr-architecture.drawio.png)
 
 ## Related Projects
+* [TreatmentBank development](https://github.com/plazi/arcadia-project/projects/12)
 * see also for [annotations ascription at DF](https://github.com/data-futures/ascription-project)
 * [Inveniosoftware](https://github.com/inveniosoftware/invenio-app-rdm)
