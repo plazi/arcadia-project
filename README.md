@@ -31,6 +31,7 @@
 
 ![Reference architecture](blr-architecture.drawio.png)
 
+[Annotation enrichtment workflow in anastore](https://github.com/plazi/arcadia-project/wiki/Annotation-enrichment-in-anastore-workflow)
 ## Related Projects
 * [TreatmentBank development](https://github.com/plazi/arcadia-project/projects/12)
 * see also for [annotations ascription at DF](https://github.com/data-futures/ascription-project)
