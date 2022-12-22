@@ -14,7 +14,7 @@
   - 2022
     - Sep 26-30, 2022. [Arcadia sprint 1 at CERN](https://github.com/plazi/arcadia-2/blob/main/sprint%201%2020220930.md). 
   - 2023
-    - Jan 29-Feb 3, 2023. Arcadia sprint 2 at CERN
+    - Jan 29-Feb 3, 2023. [Arcadia sprint 2 at CERN](https://github.com/plazi/arcadia-project/blob/master/sprint%202%2020230130.md)
     - Sep 2023. Arcadia sprint 3 at CERN
   - 2024
     - Aug 19-21, 2024. Arcadia sprint 4 at CERN
