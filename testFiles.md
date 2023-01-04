@@ -17,7 +17,7 @@ https://tb.plazi.org/GgServer/summary/FFD01C59FFE65F4EBF6AFFD7FFB5CA6C
 | Article | # pages | # treatments | # treatment citations | # tc with httpURI |# material citations | # figures | # tables | # bibliographic citations | # new spec. | 
 | --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 | [1](https://tb.plazi.org/GgServer/dioStats/stats?outputFields=doc.articleUuid+bib.source+cont.pageCount+cont.treatCount+cont.treatCitCount+cont.treatCitCountHttpUri+cont.matCitCount+cont.figCount+cont.tabCount+cont.bibRefCount+treat.status&groupingFields=doc.articleUuid+bib.source+cont.pageCount+cont.treatCount+cont.treatCitCount+cont.treatCitCountHttpUri+cont.matCitCount+cont.figCount+cont.tabCount+cont.bibRefCount+treat.status&FP-doc.articleUuid=FFCEFFA71D0DD960FF886D158538FF88&FP-bib.source=%22European%20Journal%20of%20Taxonomy%22&FP-cont.treatCount=2&FP-cont.treatCitCount=1-&FP-cont.matCitCount=2-&FP-treat.status=%22sp.%20nov.%22&format=HTML) | 25 | 2 | 6 | 1 | 5 | 11 | 4 | 58 | 1 |
-| 2 |
+| [2](https://tb.plazi.org/GgServer/dioStats/stats?outputFields=doc.articleUuid+bib.source+cont.pageCount+cont.treatCount+cont.treatCitCount+cont.treatCitCountHttpUri+cont.matCitCount+cont.figCount+cont.tabCount+cont.bibRefCount+treat.status&groupingFields=doc.articleUuid+bib.source+cont.pageCount+cont.treatCount+cont.treatCitCount+cont.treatCitCountHttpUri+cont.matCitCount+cont.figCount+cont.tabCount+cont.bibRefCount&FP-doc.articleUuid=9F3EB341FFF2FF82B345D672FF811F58&FP-bib.source=%20&FP-cont.treatCount=%20&FP-cont.treatCitCount=%20&FP-cont.matCitCount=%20&FP-treat.status=%20&format=HTML) | 25 | 4 | 9 | 0 | 5 | 21 | 0 | 18 | 1 |
 | 3 |
 | 4 |
 | 5 |
