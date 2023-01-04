@@ -16,7 +16,7 @@ https://tb.plazi.org/GgServer/summary/FFD01C59FFE65F4EBF6AFFD7FFB5CA6C
 
 | Article | # pages | # treatments | # treatment citations | # tc with httpURI |# material citations | # figures | # tables | # bibliographic citations | # new spec. | 
 | --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-| 1 |
+| [1](https://tb.plazi.org/GgServer/dioStats/stats?outputFields=doc.articleUuid+bib.source+cont.pageCount+cont.treatCount+cont.treatCitCount+cont.treatCitCountHttpUri+cont.matCitCount+cont.figCount+cont.tabCount+cont.bibRefCount+treat.status&groupingFields=doc.articleUuid+bib.source+cont.pageCount+cont.treatCount+cont.treatCitCount+cont.treatCitCountHttpUri+cont.matCitCount+cont.figCount+cont.tabCount+cont.bibRefCount+treat.status&FP-doc.articleUuid=FFCEFFA71D0DD960FF886D158538FF88&FP-bib.source=%22European%20Journal%20of%20Taxonomy%22&FP-cont.treatCount=2&FP-cont.treatCitCount=1-&FP-cont.matCitCount=2-&FP-treat.status=%22sp.%20nov.%22&format=HTML) | 25 | 2 | 6 | 1 | 5 | 11 | 4 | 58 | 1 |
 | 2 |
 | 3 |
 | 4 |
