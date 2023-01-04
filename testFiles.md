@@ -15,7 +15,7 @@ https://tb.plazi.org/GgServer/summary/244CDA14FFD3BB1B2820FF8C5E190A55
 https://tb.plazi.org/GgServer/summary/FFD01C59FFE65F4EBF6AFFD7FFB5CA6C
 
 | Article | # pages | # treatments | # treatment citations | # tc with httpURI | # new spec. | # material citations |
-| --- |--- |--- |--- |--- |--- |
+| --- |--- |--- |--- |--- |--- |--- |
 | 1 |
 
 
