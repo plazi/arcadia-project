@@ -14,9 +14,13 @@ https://tb.plazi.org/GgServer/summary/244CDA14FFD3BB1B2820FF8C5E190A55
 5. Štepánek, Jan & Kirschner, Jan, 2013, A revision of mountain species of the genus Taraxacum F. H. Wigg. (Compositae) in Corsica, Candollea 68 (1), pp. 29-39 
 https://tb.plazi.org/GgServer/summary/FFD01C59FFE65F4EBF6AFFD7FFB5CA6C
 
-| Article | # pages | # treatments | # treatment citations | # tc with httpURI | # new spec. | # material citations |
-| --- |--- |--- |--- |--- |--- |--- |
+| Article | # pages | # treatments | # treatment citations | # tc with httpURI |# material citations | # figures | # tables | # bibliographic citations | # new spec. | 
+| --- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 | 1 |
+| 2 |
+| 3 |
+| 4 |
+| 5 |
 
 
 For discussion see [195](https://github.com/plazi/arcadia-project/issues/195)
