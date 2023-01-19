@@ -5,8 +5,12 @@
 
 ## Under Development
 - Bonn zoological Bulletin
+- Crustacean Research
+
+## Halted
 - Diversity
 - Edinburgh Journal of Botany
+- Systematic Botany
 
 ## Evaluation
 * [List](https://docs.google.com/spreadsheets/d/19CHlSuGymuGDKcHO6P9iboozEZ8a5tzt_TNmeZVzjTs/edit#gid=0)
