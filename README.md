@@ -17,11 +17,11 @@
     - Jan 29-Feb 3, 2023. [Arcadia sprint 2 at CERN](https://github.com/plazi/arcadia-project/blob/master/sprint%202%2020230130.md)
     - Sep 2023. Arcadia sprint 3 at CERN
   - 2024
-    - Aug 19-21, 2024. Arcadia sprint 4 at CERN
+    - Feb 2024, sprint 4  at CERN
+    - Aug 19-21, 2024. Arcadia sprint 5 in Disentis
     - Aug 21-24, 2024. [Bouchout +10, Disentis](https://github.com/plazi/bouchout-10)
-    - Arcadia sprint 5 in Disentis
   - 2025
-    - Feb 2025. Arcadia sprint 5 at CERN
+    - Feb 2025. Arcadia sprint 6 at CERN
 - [management](https://github.com/plazi/arcadia-2) (restricted access)
 - Partners
   - [anestore/IIIF service in Zenodo](https://github.com/plazi/collaborations_services/issues/94) 
