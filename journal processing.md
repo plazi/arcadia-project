@@ -7,6 +7,23 @@
 - Journal of Mammalogy
 - Taxon
 
+## Next
+### February
+- Amphibia-Reptilia
+- Herpetologica
+- Journal of Herpetology
+- Molecular Phylogenetics and Evolution
+- Zoologica Scripta
+
+### March
+- Acta Chiropterologica
+- African Journal of Herpetology
+- Journal of Zoological Systematics and Evolutionary Research
+- Mammalia
+- Mammalian Biology
+- PLOS ONE
+- Zoologischer Anzeiger
+
 ## Halted
 - Bonn zoological Bulletin
 - Crustacean Research
