@@ -3,6 +3,9 @@
 ## Ongoing journals
 * [List](https://docs.google.com/spreadsheets/d/1KDdmrWu9JSDwUJLUI-N3o3YJOszPVZz07p1Y5NqrT6I/edit#gid=0)
 
+## Completed
+- African Invertebrates (2001-2015)
+
 ## Under Development
 - Journal of Mammalogy
 - Taxon
