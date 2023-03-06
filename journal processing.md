@@ -8,12 +8,11 @@
 
 ## Under Development
 - Herpetologica
-
+- Journal of Herpetology
 
 ## Next
 ### February (delayed)
 - Amphibia-Reptilia
-- Journal of Herpetology
 - Molecular Phylogenetics and Evolution
 - Zoologica Scripta
 
