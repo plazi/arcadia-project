@@ -7,13 +7,12 @@
 - African Invertebrates (2001-2007 and 2008-2015)
 
 ## Under Development
-- Journal of Mammalogy
-- Taxon
+- Herpetologica
+
 
 ## Next
-### February
+### February (delayed)
 - Amphibia-Reptilia
-- Herpetologica
 - Journal of Herpetology
 - Molecular Phylogenetics and Evolution
 - Zoologica Scripta
@@ -33,6 +32,8 @@
 - Diversity
 - Edinburgh Journal of Botany
 - Systematic Botany
+- Journal of Mammalogy
+- Taxon
 
 ## Evaluation
 * [List](https://docs.google.com/spreadsheets/d/19CHlSuGymuGDKcHO6P9iboozEZ8a5tzt_TNmeZVzjTs/edit#gid=0)
