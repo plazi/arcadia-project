@@ -7,8 +7,12 @@
 - African Invertebrates (2001-2007 and 2008-2015)
 
 ## Under Development
-- Herpetologica
+- African Journal of Herpetology
 - Journal of Herpetology
+
+## Testing
+- Herpetologica
+- Journal of Parasitology
 
 ## Next
 ### February (delayed)
