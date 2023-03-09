@@ -18,8 +18,6 @@
 ## Next
 ### February (delayed)
 - Amphibia-Reptilia
-- Molecular Phylogenetics and Evolution
-- Zoologica Scripta
 
 ### March
 - Acta Chiropterologica
@@ -38,6 +36,7 @@
 - Systematic Botany
 - Journal of Mammalogy
 - Taxon
+- Zoologica Scripta
 
 ## Evaluation
 * [List](https://docs.google.com/spreadsheets/d/19CHlSuGymuGDKcHO6P9iboozEZ8a5tzt_TNmeZVzjTs/edit#gid=0)
