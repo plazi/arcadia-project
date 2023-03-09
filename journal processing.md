@@ -5,13 +5,14 @@
 
 ## Completed
 - African Invertebrates (2001-2007 and 2008-2015)
+- Herpetologica (2015-)
 
 ## Under Development
 - African Journal of Herpetology
 - Journal of Herpetology
+- Molecular Phylogenetics and Evolution
 
 ## Testing
-- Herpetologica
 - Journal of Parasitology
 
 ## Next
