@@ -13,6 +13,7 @@
 - Molecular Phylogenetics and Evolution
 
 ## Testing
+- Acta Chiropterologica
 - Journal of Parasitology
 
 ## Next
@@ -20,7 +21,6 @@
 - Amphibia-Reptilia
 
 ### March
-- Acta Chiropterologica
 - African Journal of Herpetology
 - Journal of Zoological Systematics and Evolutionary Research
 - Mammalia
