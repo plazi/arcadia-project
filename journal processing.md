@@ -6,15 +6,16 @@
 ## Completed
 - African Invertebrates (2001-2007 and 2008-2015)
 - Herpetologica (2015-)
+- Journal of Parasitology (2019-)
 
 ## Under Development
 - African Journal of Herpetology
 - Journal of Herpetology
 - Molecular Phylogenetics and Evolution
+- Zoologischer Anzeiger
 
 ## Testing
 - Acta Chiropterologica
-- Journal of Parasitology
 
 ## Next
 ### February (delayed)
@@ -26,7 +27,6 @@
 - Mammalia
 - Mammalian Biology
 - PLOS ONE
-- Zoologischer Anzeiger
 
 ## Halted
 - Bonn zoological Bulletin
