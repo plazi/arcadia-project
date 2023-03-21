@@ -2,6 +2,7 @@
 
 ## Ongoing journals
 * [List](https://docs.google.com/spreadsheets/d/1KDdmrWu9JSDwUJLUI-N3o3YJOszPVZz07p1Y5NqrT6I/edit#gid=0)
+* [Potential journals](https://github.com/plazi/arcadia-project/blob/master/journal%20processing.md)
 
 ## Completed
 - African Invertebrates (2001-2007 and 2008-2015)
