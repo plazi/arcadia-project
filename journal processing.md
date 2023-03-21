@@ -28,6 +28,22 @@
 - Mammalian Biology
 - PLOS ONE
 
+### April
+- Biological Journal of the Linnean Society
+- BMC Evolutionary Biology
+- Copeia
+- Canadian Entomologist
+- Journal of Paleontology
+- Canadian Journal of Zoology
+- Bulletin of Entomological Research
+
+### May
+- Journal of Vertebrate Paleontology
+- Journal of Helminthology
+- Systematic Botany
+- Journal of Arachnology
+- Journal of Molluscan Studies
+
 ## Halted
 - Bonn zoological Bulletin
 - Crustacean Research
