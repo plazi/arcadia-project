@@ -10,27 +10,22 @@
 - Journal of Parasitology (2019-)
 
 ## Under Development
-- African Journal of Herpetology
-- Journal of Herpetology
-- Molecular Phylogenetics and Evolution
-- Zoologischer Anzeiger
+- Amphibia-Reptilia
+- Biological Journal of the Linnean Society
+- Mammalia
+- Mammalian Biology
 
 ## Testing
 - Acta Chiropterologica
+- African Journal of Herpetology
+- Journal of Herpetology
 
 ## Next
-### February (delayed)
-- Amphibia-Reptilia
-
 ### March
-- African Journal of Herpetology
 - Journal of Zoological Systematics and Evolutionary Research
-- Mammalia
-- Mammalian Biology
 - PLOS ONE
 
 ### April
-- Biological Journal of the Linnean Society
 - BMC Evolutionary Biology
 - Copeia
 - Canadian Entomologist
@@ -52,7 +47,9 @@
 - Edinburgh Journal of Botany
 - Systematic Botany
 - Journal of Mammalogy
+- Molecular Phylogenetics and Evolution (waiting GGI update)
 - Taxon
+- Zoologischer Anzeiger (waiting GGI update)
 - Zoologica Scripta
 
 ## Evaluation
