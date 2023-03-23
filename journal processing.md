@@ -18,6 +18,7 @@
 ## Testing
 - Acta Chiropterologica
 - African Journal of Herpetology
+- Bonn zoological Bulletin
 - Journal of Herpetology
 
 ## Next
@@ -41,16 +42,15 @@
 - Journal of Molluscan Studies
 
 ## Halted
-- Bonn zoological Bulletin
 - Crustacean Research
 - Diversity
-- Edinburgh Journal of Botany
-- Systematic Botany
-- Journal of Mammalogy
+- Edinburgh Journal of Botany (complicated heading system)
+- Systematic Botany (complicated heading system + not many treatments)
+- Journal of Mammalogy (waiting GGI update)
 - Molecular Phylogenetics and Evolution (waiting GGI update)
 - Taxon
 - Zoologischer Anzeiger (waiting GGI update)
-- Zoologica Scripta
+- Zoologica Scripta (verbose headings, need to discuss with Guido)
 
 ## Evaluation
 * [List](https://docs.google.com/spreadsheets/d/19CHlSuGymuGDKcHO6P9iboozEZ8a5tzt_TNmeZVzjTs/edit#gid=0)
