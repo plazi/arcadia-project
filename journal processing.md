@@ -7,6 +7,7 @@
 ## Completed
 - African Invertebrates (2001-2007 and 2008-2015)
 - Biological Journal of the Linnean Society (2003-)
+- Cryptogamie, Algologie (2019-)
 - Cryptogamie, Mycologie (2019-)
 - Herpetologica (2015-)
 - Journal of Parasitology (2019-)
@@ -24,8 +25,7 @@
 - Acta Chiropterologica
 - African Journal of Herpetology
 - Bonn zoological Bulletin
-- Cryptogamie, Algologie (2019-)
-- Cryptogamie, Bryologie (2019-)
+- Cryptogamie, Bryologie
 - Journal of Herpetology
 - Mammalia
 
