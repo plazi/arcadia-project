@@ -6,23 +6,31 @@
 
 ## Completed
 - African Invertebrates (2001-2007 and 2008-2015)
+- Biological Journal of the Linnean Society (2003-)
+- Cryptogamie, Mycologie (2019-)
 - Herpetologica (2015-)
 - Journal of Parasitology (2019-)
 
 ## Under Development
 - Amphibia-Reptilia
 - Biological Journal of the Linnean Society
-- Mammalia
+- Journal of Mammalogy
 - Mammalian Biology
+- Molecular Phylogenetics and Evolution
+- Zoologischer Anzeiger
+- Zoologica Scripta
 
 ## Testing
 - Acta Chiropterologica
 - African Journal of Herpetology
 - Bonn zoological Bulletin
+- Cryptogamie, Algologie (2019-)
+- Cryptogamie, Bryologie (2019-)
 - Journal of Herpetology
+- Mammalia
 
 ## Next
-### March
+### March (delayed)
 - Journal of Zoological Systematics and Evolutionary Research
 - PLOS ONE
 
@@ -46,11 +54,7 @@
 - Diversity
 - Edinburgh Journal of Botany (complicated heading system)
 - Systematic Botany (complicated heading system + not many treatments)
-- Journal of Mammalogy (waiting GGI update)
-- Molecular Phylogenetics and Evolution (waiting GGI update)
 - Taxon
-- Zoologischer Anzeiger (waiting GGI update)
-- Zoologica Scripta (verbose headings, need to discuss with Guido)
 
 ## Evaluation
 * [List](https://docs.google.com/spreadsheets/d/19CHlSuGymuGDKcHO6P9iboozEZ8a5tzt_TNmeZVzjTs/edit#gid=0)
