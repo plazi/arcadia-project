@@ -14,7 +14,6 @@
 
 ## Under Development
 - Amphibia-Reptilia
-- Biological Journal of the Linnean Society
 - Journal of Mammalogy
 - Mammalian Biology
 - Molecular Phylogenetics and Evolution
