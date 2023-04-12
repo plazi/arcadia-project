@@ -5,9 +5,11 @@
 * [Potential journals](https://github.com/plazi/arcadia-project/blob/master/journal%20processing.md)
 
 ## Completed
+- Acta Chiropterologica (2016-)
 - African Invertebrates (2001-2007 and 2008-2015)
 - Biological Journal of the Linnean Society (2003-)
 - Cryptogamie, Algologie (2019-)
+- Cryptogamie, Bryologie (2019-)
 - Cryptogamie, Mycologie (2019-)
 - Herpetologica (2015-)
 - Journal of Parasitology (2019-)
@@ -21,10 +23,8 @@
 - Zoologica Scripta
 
 ## Testing
-- Acta Chiropterologica
 - African Journal of Herpetology
 - Bonn zoological Bulletin
-- Cryptogamie, Bryologie
 - Journal of Herpetology
 - Mammalia
 
