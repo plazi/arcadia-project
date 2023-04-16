@@ -12,11 +12,11 @@
 - Cryptogamie, Bryologie (2019-)
 - Cryptogamie, Mycologie (2019-)
 - Herpetologica (2015-)
+- Journal of Mammalogy (2015-)
 - Journal of Parasitology (2019-)
 
 ## Under Development
 - Amphibia-Reptilia
-- Journal of Mammalogy
 - Mammalian Biology
 - Molecular Phylogenetics and Evolution
 - Zoologischer Anzeiger
