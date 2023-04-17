@@ -14,6 +14,7 @@
 - Herpetologica (2015-)
 - Journal of Mammalogy (2015-)
 - Journal of Parasitology (2019-)
+- Mammalia (2015-)
 
 ## Under Development
 - Amphibia-Reptilia
@@ -26,7 +27,6 @@
 - African Journal of Herpetology
 - Bonn zoological Bulletin
 - Journal of Herpetology
-- Mammalia
 
 ## Next
 ### March (delayed)
