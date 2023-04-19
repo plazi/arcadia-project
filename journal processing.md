@@ -12,25 +12,26 @@
 - Cryptogamie, Bryologie (2019-)
 - Cryptogamie, Mycologie (2019-)
 - Herpetologica (2015-)
+- Ichthyology & Herpetology (2021-)
 - Journal of Mammalogy (2015-)
 - Journal of Parasitology (2019-)
 - Mammalia (2015-)
 
 ## Under Development
-- Amphibia-Reptilia
-- Mammalian Biology
+- Journal of Zoological Systematics and Evolutionary Research
 - Molecular Phylogenetics and Evolution
-- Zoologischer Anzeiger
 - Zoologica Scripta
+- Zoological Studies
+- Zoologischer Anzeiger
 
 ## Testing
 - African Journal of Herpetology
-- Bonn zoological Bulletin
+- Amphibia-Reptilia
 - Journal of Herpetology
+- Mammalian Biology
 
 ## Next
 ### March (delayed)
-- Journal of Zoological Systematics and Evolutionary Research
 - PLOS ONE
 
 ### April
@@ -49,6 +50,7 @@
 - Journal of Molluscan Studies
 
 ## Halted
+- Bonn zoological Bulletin
 - Crustacean Research
 - Diversity
 - Edinburgh Journal of Botany (complicated heading system)
