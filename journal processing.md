@@ -7,12 +7,14 @@
 ## Completed
 - Acta Chiropterologica (2016-)
 - African Invertebrates (2001-2007 and 2008-2015)
+- Amphibia-Reptilia (2021-)
 - Biological Journal of the Linnean Society (2003-)
 - Cryptogamie, Algologie (2019-)
 - Cryptogamie, Bryologie (2019-)
 - Cryptogamie, Mycologie (2019-)
 - Herpetologica (2015-)
 - Ichthyology & Herpetology (2021-)
+- Journal of Herpetology (2019-)
 - Journal of Mammalogy (2015-)
 - Journal of Parasitology (2019-)
 - Mammalia (2015-)
@@ -20,15 +22,15 @@
 ## Under Development
 - Journal of Zoological Systematics and Evolutionary Research
 - Molecular Phylogenetics and Evolution
-- Zoologica Scripta
+- Taxonomy
 - Zoological Studies
 - Zoologischer Anzeiger
 
 ## Testing
 - African Journal of Herpetology
-- Amphibia-Reptilia
-- Journal of Herpetology
 - Mammalian Biology
+- Phytochemistry
+- Zoologica Scripta
 
 ## Next
 ### March (delayed)
