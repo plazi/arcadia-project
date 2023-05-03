@@ -8,18 +8,18 @@
 Journal|Years|Access
 --|--|--
 Acta Chiropterologica|2016-current|Closed
-African Invertebrates|2001-2007; 2008-2015|Open Access
-Amphibia-Reptilia|2021-current|Closed Access
-Biological Journal of the Linnean Society|2003-current|Closed Access
-Cryptogamie, Algologie|2019-current|Open Access
-Cryptogamie, Bryologie|2019-current|Open Access
-Cryptogamie, Mycologie|2019-current|Open Access
-Herpetologica|2015-current|Closed Access
-Ichthyology & Herpetology|2021-current|Closed Access
-Journal of Herpetology|2019-current|Closed Access
-Journal of Mammalogy|2015-current|Closed Access
-Journal of Parasitology|2019-current|Closed Access
-Mammalia|2015-current|Closed Access
+African Invertebrates|2001-2007; 2008-2015|Open
+Amphibia-Reptilia|2021-current|Closed
+Biological Journal of the Linnean Society|2003-current|Closed
+Cryptogamie, Algologie|2019-current|Open
+Cryptogamie, Bryologie|2019-current|Open
+Cryptogamie, Mycologie|2019-current|Open
+Herpetologica|2015-current|Closed
+Ichthyology & Herpetology|2021-current|Closed
+Journal of Herpetology|2019-current|Closed
+Journal of Mammalogy|2015-current|Closed
+Journal of Parasitology|2019-current|Closed
+Mammalia|2015-current|Closed
 
 ## Under Development
 - Journal of Zoological Systematics and Evolutionary Research
