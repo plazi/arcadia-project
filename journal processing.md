@@ -5,19 +5,19 @@
 * [Potential journals](https://github.com/plazi/arcadia-project/blob/master/journal%20processing.md)
 
 ## Completed
-- Acta Chiropterologica (2016-)
-- African Invertebrates (2001-2007 and 2008-2015)
-- Amphibia-Reptilia (2021-)
-- Biological Journal of the Linnean Society (2003-)
-- Cryptogamie, Algologie (2019-)
-- Cryptogamie, Bryologie (2019-)
-- Cryptogamie, Mycologie (2019-)
-- Herpetologica (2015-)
-- Ichthyology & Herpetology (2021-)
-- Journal of Herpetology (2019-)
-- Journal of Mammalogy (2015-)
-- Journal of Parasitology (2019-)
-- Mammalia (2015-)
+- Acta Chiropterologica (2016-) — Closed Access
+- African Invertebrates (2001-2007 and 2008-2015) — Open Access
+- Amphibia-Reptilia (2021-) — Closed Access
+- Biological Journal of the Linnean Society (2003-) — Closed Access
+- Cryptogamie, Algologie (2019-) — Open Access
+- Cryptogamie, Bryologie (2019-) — Open Access
+- Cryptogamie, Mycologie (2019-) — Open Access
+- Herpetologica (2015-) — Closed Access
+- Ichthyology & Herpetology (2021-) — Closed Access
+- Journal of Herpetology (2019-) — Closed Access
+- Journal of Mammalogy (2015-) — Closed Access
+- Journal of Parasitology (2019-) — Closed Access
+- Mammalia (2015-) — Closed Access
 
 ## Under Development
 - Journal of Zoological Systematics and Evolutionary Research
@@ -29,7 +29,7 @@
 ## Testing
 - African Journal of Herpetology
 - Mammalian Biology
-- Phytochemistry
+- Phytochemistry (Caption issues https://github.com/plazi/ggi/issues/301)
 - Zoologica Scripta
 
 ## Next
