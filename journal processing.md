@@ -5,19 +5,21 @@
 * [Potential journals](https://github.com/plazi/arcadia-project/blob/master/journal%20processing.md)
 
 ## Completed
-- Acta Chiropterologica (2016-) — Closed Access
-- African Invertebrates (2001-2007 and 2008-2015) — Open Access
-- Amphibia-Reptilia (2021-) — Closed Access
-- Biological Journal of the Linnean Society (2003-) — Closed Access
-- Cryptogamie, Algologie (2019-) — Open Access
-- Cryptogamie, Bryologie (2019-) — Open Access
-- Cryptogamie, Mycologie (2019-) — Open Access
-- Herpetologica (2015-) — Closed Access
-- Ichthyology & Herpetology (2021-) — Closed Access
-- Journal of Herpetology (2019-) — Closed Access
-- Journal of Mammalogy (2015-) — Closed Access
-- Journal of Parasitology (2019-) — Closed Access
-- Mammalia (2015-) — Closed Access
+Journal|Years|Access
+--|--|--
+Acta Chiropterologica|2016-current|Closed
+African Invertebrates|2001-2007; 2008-2015|Open Access
+Amphibia-Reptilia|2021-current|Closed Access
+Biological Journal of the Linnean Society|2003-current|Closed Access
+Cryptogamie, Algologie|2019-current|Open Access
+Cryptogamie, Bryologie|2019-current|Open Access
+Cryptogamie, Mycologie|2019-current|Open Access
+Herpetologica|2015-current|Closed Access
+Ichthyology & Herpetology|2021-current|Closed Access
+Journal of Herpetology|2019-current|Closed Access
+Journal of Mammalogy|2015-current|Closed Access
+Journal of Parasitology|2019-current|Closed Access
+Mammalia|2015-current|Closed Access
 
 ## Under Development
 - Journal of Zoological Systematics and Evolutionary Research
