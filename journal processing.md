@@ -22,8 +22,8 @@ Journal of Parasitology|2019-current|Closed
 Mammalia|2015-current|Closed
 
 ## Under Development
+- Edinburgh Journal of Botany (complicated heading system)
 - Journal of Zoological Systematics and Evolutionary Research
-- Molecular Phylogenetics and Evolution
 - Taxonomy
 - Zoological Studies
 - Zoologischer Anzeiger
@@ -57,7 +57,8 @@ Mammalia|2015-current|Closed
 - Bonn zoological Bulletin
 - Crustacean Research
 - Diversity
-- Edinburgh Journal of Botany (complicated heading system)
+
+- Molecular Phylogenetics and Evolution
 - Systematic Botany (complicated heading system + not many treatments)
 - Taxon
 
