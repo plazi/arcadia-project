@@ -22,42 +22,28 @@ Journal of Parasitology|2019-current|Closed
 Mammalia|2015-current|Closed
 
 ## Under Development
+- Baltic Journal of Coleopterology
 - Edinburgh Journal of Botany (complicated heading system)
 - Journal of Zoological Systematics and Evolutionary Research
-- Taxonomy
-- Zoological Studies
 - Zoologischer Anzeiger
 
 ## Testing
 - African Journal of Herpetology
+- Animal Systematics, Evolution and Diversity
 - Mammalian Biology
-- Phytochemistry (Caption issues https://github.com/plazi/ggi/issues/301)
+- Phytochemistry (bibRef issues https://github.com/plazi/ggi/issues/303)
+- Taxonomy
 - Zoologica Scripta
+- Zoological Studies
 
 ## Next
-### March (delayed)
-- PLOS ONE
-
-### April
-- BMC Evolutionary Biology
-- Copeia
-- Canadian Entomologist
-- Journal of Paleontology
-- Canadian Journal of Zoology
-- Bulletin of Entomological Research
-
-### May
-- Journal of Vertebrate Paleontology
-- Journal of Helminthology
-- Systematic Botany
-- Journal of Arachnology
-- Journal of Molluscan Studies
+See 'Rankings' sheet in https://docs.google.com/spreadsheets/d/1GecUYyP3zQk50jJa_Dgncact8eWIhm0Q/edit#gid=646680689
 
 ## Halted
+- Acta Arachnologica (decoding problems)
 - Bonn zoological Bulletin
 - Crustacean Research
 - Diversity
-
 - Molecular Phylogenetics and Evolution
 - Systematic Botany (complicated heading system + not many treatments)
 - Taxon
