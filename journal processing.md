@@ -22,14 +22,17 @@ Journal of Parasitology|2019-current|Closed
 Mammalia|2015-current|Closed
 
 ## Under Development
-- Baltic Journal of Coleopterology
+- Bulletin of the National Museum of Nature and Science Series A
+- Bulletin of the National Museum of Nature and Science Series B
 - Edinburgh Journal of Botany (complicated heading system)
+- Journal of Insect Biodiversity and Systematics
 - Journal of Zoological Systematics and Evolutionary Research
 - Zoologischer Anzeiger
 
 ## Testing
 - African Journal of Herpetology
 - Animal Systematics, Evolution and Diversity
+- Baltic Journal of Coleopterology
 - Mammalian Biology
 - Phytochemistry (bibRef issues https://github.com/plazi/ggi/issues/303)
 - Taxonomy
