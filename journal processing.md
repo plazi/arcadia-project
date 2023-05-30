@@ -5,21 +5,22 @@
 * [Potential journals](https://github.com/plazi/arcadia-project/blob/master/journal%20processing.md)
 
 ## Completed
-Journal|Years|Access
---|--|--
-Acta Chiropterologica|2016-current|Closed
-African Invertebrates|2001-2007; 2008-2015|Open
-Amphibia-Reptilia|2021-current|Closed
-Biological Journal of the Linnean Society|2003-current|Closed
-Cryptogamie, Algologie|2019-current|Open
-Cryptogamie, Bryologie|2019-current|Open
-Cryptogamie, Mycologie|2019-current|Open
-Herpetologica|2015-current|Closed
-Ichthyology & Herpetology|2021-current|Closed
-Journal of Herpetology|2019-current|Closed
-Journal of Mammalogy|2015-current|Closed
-Journal of Parasitology|2019-current|Closed
-Mammalia|2015-current|Closed
+Journal|Years|Access|Subtype
+--|--|--|--
+Acta Chiropterologica|2016-current|Closed|
+African Invertebrates|2001-2007; 2008-2015|Open|
+Amphibia-Reptilia|2021-current|Closed|
+Biological Journal of the Linnean Society|2003-current|Closed|
+Chironomus|2015-current|Open|Article
+Cryptogamie, Algologie|2019-current|Open|
+Cryptogamie, Bryologie|2019-current|Open|
+Cryptogamie, Mycologie|2019-current|Open|
+Herpetologica|2015-current|Closed|
+Ichthyology & Herpetology|2021-current|Closed|
+Journal of Herpetology|2019-current|Closed|
+Journal of Mammalogy|2015-current|Closed|
+Journal of Parasitology|2019-current|Closed|
+Mammalia|2015-current|Closed|
 
 ## Under Development
 - Bulletin of the National Museum of Nature and Science Series A
