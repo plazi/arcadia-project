@@ -11,7 +11,7 @@ Acta Chiropterologica|2016-current|Closed|
 African Invertebrates|2001-2007; 2008-2015|Open|
 Amphibia-Reptilia|2021-current|Closed|
 Biological Journal of the Linnean Society|2003-current|Closed|
-Chironomus|2015-current|Open|Article
+Chironomus|2015-current|Open|Article + Short Comms
 Cryptogamie, Algologie|2019-current|Open|
 Cryptogamie, Bryologie|2019-current|Open|
 Cryptogamie, Mycologie|2019-current|Open|
