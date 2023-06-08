@@ -6,6 +6,8 @@
 * [Potential journals](https://docs.google.com/spreadsheets/d/1GecUYyP3zQk50jJa_Dgncact8eWIhm0Q/edit#gid=646680689)
 
 ## Completed
+
+Total: 16
 Journal|Years|Access|Subtype
 --|--|--|--
 Acta Chiropterologica|2016-current|Closed|
@@ -24,6 +26,7 @@ Journal of Parasitology|2019-current|Closed|
 Mammalia|2015-current|Closed|
 
 ## Under Development
+Total: 6
 - Bulletin of the National Museum of Nature and Science Series A
 - Bulletin of the National Museum of Nature and Science Series B
 - Edinburgh Journal of Botany (complicated heading system)
@@ -32,6 +35,7 @@ Mammalia|2015-current|Closed|
 - Zoologischer Anzeiger
 
 ## Testing
+Total: 8
 - African Journal of Herpetology
 - Animal Systematics, Evolution and Diversity
 - Baltic Journal of Coleopterology
