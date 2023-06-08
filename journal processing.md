@@ -3,7 +3,7 @@
 ## Ongoing journals
 * [Template Database](https://docs.google.com/spreadsheets/d/1OIo6A9MiemosFgZHcOWcYxGm43A23bpHUVUO2nHVvC8/edit#gid=0)
 * [List of routinely processed journals](https://docs.google.com/spreadsheets/d/1KDdmrWu9JSDwUJLUI-N3o3YJOszPVZz07p1Y5NqrT6I/edit#gid=0)
-* [Potential journals](https://github.com/plazi/arcadia-project/blob/master/journal%20processing.md)
+* [Potential journals](https://docs.google.com/spreadsheets/d/1GecUYyP3zQk50jJa_Dgncact8eWIhm0Q/edit#gid=646680689))
 
 ## Completed
 Journal|Years|Access|Subtype
