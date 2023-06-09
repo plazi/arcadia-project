@@ -18,6 +18,7 @@ Chironomus|2015-current|Open|Article + Short Comms
 Cryptogamie, Algologie|2019-current|Open|
 Cryptogamie, Bryologie|2019-current|Open|
 Cryptogamie, Mycologie|2019-current|Open|
+Ecologica Montenegrina|2014-2016; 2017-current|Open|
 Herpetologica|2015-current|Closed|
 Ichthyology & Herpetology|2021-current|Closed|
 Journal of Herpetology|2019-current|Closed|
