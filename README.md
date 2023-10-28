@@ -10,6 +10,7 @@
   - accepted: April 29, 2022
   - starting date: July 1, 2022
   - end date: June 30, 2025
+- [Workplan](https://docs.google.com/document/d/1JxcnQbgnNQ859DxSRVs9a7BSHgCM5QrA/edit)
 - Meetings:
   - 2022
     - Sep 26-30, 2022. [Arcadia sprint 1 at CERN](https://github.com/plazi/arcadia-2/blob/main/sprint%201%2020220930.md). 
