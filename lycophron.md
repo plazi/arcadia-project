@@ -9,3 +9,8 @@ Tool to batch upload papers (or any other file type) to Zenodo, writing informat
 ## upload template
 * [example](https://docs.google.com/spreadsheets/d/16F5tO0MvDuzD5aFoqdH_Vwbt6vtJT9fsJRTUP5d_NTo/edit#gid=0)
 * [template](https://docs.google.com/spreadsheets/d/1JAxI4uBLS9lhhtP9iyhOQPOHsSMqywjCYfIcqUIMCKU/edit#gid=0)
+
+## Upload corpora
+* [MfN Turbotaxonomy](https://github.com/orgs/plazi/projects/53/views/1)
+* [Taxodros - Drosophilidae](https://github.com/plazi/drosophilid-upload)
+* [Aja Bats]()
