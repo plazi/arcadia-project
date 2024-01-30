@@ -9,3 +9,16 @@ Topics to be covered are listed [here](https://github.com/plazi/arcadia-project/
 
 ## Participants
 [overview](https://docs.google.com/spreadsheets/d/1B5xFw2AQrtN2OhV1-sRqqgSD-cfQRLZs1lf44wNWiPs/edit#gid=0)
+
+## Agenda
+
+# Agenda
+
+| Time              |  So 10.3. | Mo 11.3 | Tu 12.3. | We 13.3. | Th 14.3. | Fr 15.3. | 
+| -------------------|-----------|-----------|-----------|----------|----------|----------|
+| Mor 10-11:30am     |           |  update   |          |     Disentis     |          |          |
+| Lunch 11:30 - 1pm  |           |           |           |          |          |          |
+| Aft 1-6pm          |           |  update ctd.      | | Disentis Lycophron |  |          |
+| Eve                |  7:30pm dinner IBIS St.Genix | | 7 pm dinner| | 7 pm dinner Carouge| |
+
+presence hours 10am to 5pm
