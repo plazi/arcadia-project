@@ -16,7 +16,7 @@ Topics to be covered are listed [here](https://github.com/plazi/arcadia-project/
 
 | Time              |  So 10.3. | Mo 11.3 | Tu 12.3. | We 13.3. | Th 14.3. | Fr 15.3. | 
 | -------------------|-----------|-----------|-----------|----------|----------|----------|
-| Mor 10-11:30am     |           |  update   |          |     Disentis     |          |          |
+| Mor 10-11:30am     |           |  update   |  DA: 504/R 11-12:00        |     Disentis     |          |          |
 | Lunch 11:30 - 1pm  |           |           |           |          |          |          |
 | Aft 1-6pm          |           |  update ctd.      | | Disentis   |  |          |
 | Eve                |  7:30pm dinner IBIS St.Genix | | 7 pm dinner| | 7 pm dinner Carouge| |
