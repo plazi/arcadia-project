@@ -22,12 +22,15 @@ or a [faster version](https://www.google.com/maps/dir/Gen%C3%A8ve+A%C3%A9roport+
 
 Building 28, Ground floor (S), Room 029
 
+![image](https://github.com/plazi/arcadia-project/assets/4609956/dd824747-2ab4-4463-aca7-bcc32db9d86e)
+
+
 ![image](https://user-images.githubusercontent.com/4609956/190636707-d4cce098-471e-4478-9a52-e29db59ca90b.png)
 
 
 ![image](https://user-images.githubusercontent.com/4609956/190826397-6397b891-ef07-466d-830a-c8e77784bad1.png)
 
-1 IBIS Budget St. Genis; 2 IBIS Saint Genis, Restaurant Sunday 25.9.; 3 Bus stop; 4 Restaurant ô brasseur; 5 CERN Gate; 6 Zenodo building
+1 IBIS Budget St. Genis; 2 IBIS Saint Genis, Restaurant Sunday 25.9.; 3 Bus stop; 4 Restaurant ô brasseur; 5 CERN Gate; 6 Zenodo building (Alex and Lars' offices), 7 Meetingroom ([Building 37](https://indico.cern.ch/event/579913/attachments/1536956/2408271/Plan_du_CERN.pdf), 8 CERN restaurant
 
 
 ## Agenda
