@@ -18,7 +18,8 @@ Topics to be covered are listed [here](https://github.com/plazi/arcadia-project/
 | -------------------|-----------|-----------|-----------|----------|----------|----------|
 | Mor 10-11:30am     |           |  update   |  DA: 504/R 11-12:00        |     Disentis     |          |          |
 | Lunch 11:30 - 1pm  |           |           |           |          |          |          |
-| Aft 1-6pm          |           |  update ctd. 3:30pm GBIF/CLB      | | Disentis   | SIBiLS |       |
+| Aft 1-6pm          |           |  update ctd. 
+3:30pm GBIF/CLB      | | Disentis   | SIBiLS |       |
 | Eve                |  7:30pm dinner IBIS St.Genix | | 7 pm dinner| | 7 pm dinner Carouge| |
 
 presence hours 10am to 5pm
