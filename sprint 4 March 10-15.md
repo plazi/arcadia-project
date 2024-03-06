@@ -40,7 +40,7 @@ Building 28, Ground floor (S), Room 029
 | -------------------|-----------|-----------|-----------|----------|----------|----------|
 | Mor 10-11:30am     |           |  update   |  DA: 504/R 11-12:00        |     Disentis     |          |          |
 | Lunch 11:30 - 1pm  |           |           |           |          |          |          |
-| Aft 1-6pm          |           |  update ctd. 3:30pm GBIF/CLB; Metope      |4pm [Lycophron](https://github.com/plazi/arcadia-project/issues/251) | Disentis   | SIBiLS |       |
+| Aft 1-6pm          |           |  update ctd. 3:30pm GBIF/CLB; Metope      |4pm [Lycophron](https://github.com/plazi/arcadia-project/issues/251) | Disentis   | [SIBiLS](https://docs.google.com/document/d/1HcyJhvg1TNgav8csZzYm2jYcgMNwZcxTBeloQTEE9H8/edit) |       |
 | Eve                |  7:30pm dinner IBIS St.Genix | | 7 pm dinner| | 7 pm dinner Carouge| |
 
 presence hours 10am to 5pm
