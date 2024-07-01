@@ -17,7 +17,7 @@ The continuation of a treatment or subSubSection is indicated by the repetition 
 There is no OCR capture.
 
 `<treatments>`   
-`<subSubSection>` 
+`<subSubSection>`:
     `nomenclature section` or `multiple section` 
 
 [Example](https://zenodo.org/records/12605625)
