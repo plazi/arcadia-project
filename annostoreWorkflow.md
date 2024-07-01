@@ -12,7 +12,7 @@ The OCR is captured normally, and we only need to edit typographical errors or a
 
 ## Treatments
 In this workflow (Treatments), treatments and subSubSections are added, the latter being divided into nomenclature and multiple. 
-The continuation of a treatment or subSubSection is indicated by the repetition of the same treatment or subSubSection number in the annotations made on the following pages.   
+The continuation of a treatment or subSubSection is indicated by the repetition of the same treatment or subSubSection number in the annotations made on the following pages. SubSubSection can be attributed with `nomenclature section` or `multiple section` 
 
 There is no OCR capture.
 
