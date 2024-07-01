@@ -20,3 +20,4 @@ The annotation of the taxonomic name is included within a nomenclature subSubSec
 The OCR is captured but not recognized, so all taxonomic names must be included manually.
 
 ## Material citations
+There is no workflow ready yet
