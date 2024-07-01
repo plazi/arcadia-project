@@ -27,7 +27,11 @@ There is no OCR capture.
 In this workflow (still under Treatments), the taxonomic names of the target taxa of each treatment are added. 
 The annotation of the taxonomic name is included within a nomenclature subSubSection annotation. 
 The OCR is captured but not recognized, so all taxonomic names must be included manually.
+
 `<taxonomicName>`   
+
+[Example](https://zenodo.org/records/12605625)
+![image](https://github.com/plazi/arcadia-project/assets/4609956/c1abc527-83af-4a04-ad27-21084393e6d2)
 
 
 ## Material citations
