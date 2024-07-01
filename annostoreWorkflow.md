@@ -14,7 +14,7 @@ In this workflow (Treatments), treatments and subSubSections are added, the latt
 The continuation of a treatment or subSubSection is indicated by the repetition of the same treatment or subSubSection number in the annotations made on the following pages. 
 There is no OCR capture.
 
-'<treatments>'
+<treatments>
 
 ## Taxonomic names
 In this workflow (still under Treatments), the taxonomic names of the target taxa of each treatment are added. 
