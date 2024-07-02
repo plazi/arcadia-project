@@ -6,7 +6,9 @@
 ## Activities
 
 ## Annotation process
-Using the Annostor tool, to create a new annotation we first need to position the entire text to be marked within the field of view. Next, we click on "create new annotation" and select the entire area to be marked with the box that appears.
+Using the Annostor tool, to create a new annotation we first need to position the entire text to be marked within the field of view. Next, we click on "create new annotation" (plus sign icon at the top of the left sidebar) and select the entire area to be marked with the box that appears.
+
+![image](https://github.com/plazi/arcadia-project/assets/92064978/48655228-e029-4ca0-90bb-d26f7f3db6a0)
 
 In the sidebar that opens on the right side of the page, we select the "annotation type," whether it belongs to a "group," and click "save". For the "group" option, if the beginning of the annotation in question has already been marked on another page or different column of text, we select the same numbering designated for that section. For example, if treatment2 continues on the next page, the annotation for the subsequent `treatment` should also be marked as treatment2, using the selection available in the "group" option.
 
