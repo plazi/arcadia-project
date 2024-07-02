@@ -6,7 +6,7 @@
 ## Activities
 
 ## Metadata
-In this workflow (Accession), the `title, authors, abstract, keywords, PIDs (DOI, ISSN, etc.), journal, publication date (year), and copyrights` are added. 
+In this workflow (Accession), the `title`, `authors`, `abstract`, `keywords`, `PIDs` (`DOI`, `ISSN`, etc.), `journal`, `publication date` (`year`), and `copyrights` are added. 
 
 The OCR is captured normally, and we only need to edit typographical errors or accents.
 
