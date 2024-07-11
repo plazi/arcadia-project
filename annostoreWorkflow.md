@@ -25,7 +25,7 @@ In this workflow (Accession), the `title`, `authors`, `abstract`, `keywords`, `P
 
 The OCR is captured normally, and we only need to edit typographical errors or accents.
 
-## Treatments
+## Treatments workflow
 In this workflow (Treatments), treatments and subSubSections are added, the latter being divided into nomenclature and multiple. 
 The continuation of a treatment or subSubSection is indicated by the repetition of the same treatment or subSubSection number in the annotations made on the following pages. SubSubSection can be attributed with `nomenclature section` or `multiple section` 
 
@@ -39,7 +39,7 @@ There is no OCR capture.
 ![image](https://github.com/plazi/arcadia-project/assets/4609956/e6de52da-742a-4b1d-b6ac-b6fe0baf1fc1)
 
 
-## Taxonomic names
+## Taxonomic names workflow
 In this workflow (still under Treatments), the taxonomic names of the target taxa of each treatment are added. 
 The annotation of the taxonomic name is included within a nomenclature subSubSection annotation. 
 The OCR is captured but not recognized, so all taxonomic names must be included manually.
