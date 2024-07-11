@@ -20,7 +20,7 @@ After adding all the annotations to the document, we click on "Mark for review",
 
 ![image](https://github.com/plazi/arcadia-project/assets/92064978/48655228-e029-4ca0-90bb-d26f7f3db6a0)
 
-## Metadata
+## Accession workflow: Metadata
 In this workflow (Accession), the `title`, `authors`, `abstract`, `keywords`, `PIDs` (`DOI`, `ISSN`, etc.), `journal`, `publication date` (`year`), and `copyrights` are added. 
 
 The OCR is captured normally, and we only need to edit typographical errors or accents.
