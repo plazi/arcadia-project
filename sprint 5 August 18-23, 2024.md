@@ -13,12 +13,16 @@ Kloster Disentis, Disentis
 There is an easy, steep, short walk from the railway station to the monastery (red). On the way you can visit Placidus a Spescha statue. Yellow will be dinner on Sunday evening (Pizzeria Alp Su)
 
 # Agenda
+## Arcadia
 | Time              |  So 18.8. | Mo 19.8. | Tu 20.8. | We 21.8. | Th 22.8. | Fr 23.8. | 
 | -------------------|-----------|-----------|-----------|----------|----------|----------|
 | Mor 10-11:30am     |           |  update   |         |          |          |          |
 | Lunch 11:30 - 1pm  |           |           |           |          |          |          |
 | Aft 1-6pm          |           |           | 4pm plazi internal discussion  |         |  |          |
 | Eve                |  7:30pm dinner Pizzeria Alp Su | | | | | |
+
+## Bouchout+10 
+[provisional agenda Bouchout+10](https://docs.google.com/spreadsheets/d/1kcvTK3o5W6lLHHAX_QqQ5izCF_C91rjGIdyr8DSGVR0/edit?gid=2070640242#gid=2070640242)
 
 # Participants
 ## Arcadia team
