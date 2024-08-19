@@ -16,10 +16,10 @@ There is an easy, steep, short walk from the railway station to the monastery (r
 ## Arcadia
 | Time              |  So 18.8. | Mo 19.8. | Tu 20.8. | We 21.8. | Th 22.8. | Fr 23.8. | 
 | -------------------|-----------|-----------|-----------|----------|----------|----------|
-| Mor 10-11:30am     |           |  update   |         |          |          |          |
+| Mor 10-11:30am     |           |  update   |         |          |  Taxonomic names, sprint |  Taxonomic names, sprint        |
 | Lunch 11:30 - 1pm  |           |           |           |          |          |          |
-| Aft 1-6pm          |           |           | 4pm plazi internal discussion  |         |  |          |
-| Eve                |  7:30pm dinner Pizzeria Surselva | | | | | |
+| Aft 1-6pm          |           | 4pm Lycophron/MfN          | 4pm plazi internal discussion  | 5 pm Arcadia presentation to Ross        |  |          |
+| Eve                |  7:30pm dinner Pizzeria Surselva | 7 pm dinner Moanstery | | | | |
 
 ## Bouchout+10 
 [provisional agenda Bouchout+10](https://docs.google.com/spreadsheets/d/1kcvTK3o5W6lLHHAX_QqQ5izCF_C91rjGIdyr8DSGVR0/edit?gid=2070640242#gid=2070640242)
