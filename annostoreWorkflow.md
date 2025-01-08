@@ -4,7 +4,8 @@
 * [Annostore activities at POA](https://arcadia2.annostor.org/activities)
 
 ## Activities
-
+* [Disentis community]()
+* [Article with annotatios](https://zenodo.org/records/13325981)
 ## Annotation process
 Using the Annostor tool to create a new annotation we first need to position the entire text to be marked within the field of view. Next, we click on "create new annotation" (plus sign icon at the top of the left sidebar) and select the entire area to be marked with the box that appears. In the sidebar that opens on the right side of the page, we select the "annotation type," whether it belongs to a "group," and click "save". The annotations made will be listed in the sidebar on the left side of the page. 
 
