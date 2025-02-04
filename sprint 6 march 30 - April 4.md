@@ -26,5 +26,7 @@ March 30 - April 4
 | Peter Cornwell | ?       | ?    |
 | Willi Egloff   | X       | X    |      |      |      | X    | 
 | Thomas Gehrig  | X       | X    |      |      |      | X    | 
+| Patrick Ruch   | X       |      | to be discussed
+| Julien Gobeil  | X       |      | to be discussed
 | **Total**      |         |  9   | 7    | 9    | 9    | 9     | 7    | 6   |  3  
-| Hotel nights   |         |      | 7    | 9    |  9   |  9    |  7    |  3   |
+| Hotel nights   |         |  X   | 7    | 9    |  9   |  9    |  7    |  3   |
