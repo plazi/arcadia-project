@@ -24,7 +24,7 @@ March 30 - April 4
 | Amrita Srivathsan | X    | X    |      | X    |  X   |
 | Rudolf Meier   | X       | X    |      | X    |  X   |
 | Peter Cornwell | ?       | ?    |
-| Willi Egloff   | X       | X    |      | X    | 
-| Thomas Gehrig  | X       | X    |      | X    | 
-| **Total**      |         |  9   | 7    | 9    | 9    | 7     | 7    | 6   |  3  
-| Hotel nights   |         |      |7     | 7    |      |       |      |     |
+| Willi Egloff   | X       | X    |      |      |      | X    | 
+| Thomas Gehrig  | X       | X    |      |      |      | X    | 
+| **Total**      |         |  9   | 7    | 9    | 9    | 9     | 7    | 6   |  3  
+| Hotel nights   |         |      | 7    | 9    |  9   |  9    |  7    |  3   |
