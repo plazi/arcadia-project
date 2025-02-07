@@ -3,6 +3,8 @@ March 30 - April 4
 
 # Notes:
 * [BPMC notes](https://docs.google.com/document/d/1VctIL72VbpFUdLv8EEL10HumXv0k-wM19LDgut2269o/edit?tab=t.0) of topics to be achieved
+* [Sprint topics](https://github.com/plazi/arcadia-project/issues/263#issue-2632225560)
+
 ## Arcadia team
 
 | Name           | present | hotel|  So 30.3. | Mo 31.3. | Tu 1.4. | We 2.4. | Th 3.4. | Fr 4.4. | Sa 5.4. | So 6.4. | 
