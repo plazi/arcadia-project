@@ -21,8 +21,7 @@ March 30 - April 4
 | Terry Catapano | X       | X    | X    | X    | X    | X    | X    | X    | X    | 
 | Donat Agosti   | X       | X    | X    | X    | X    | X    | X    |      |  
 | Felipe Simoes  | X       | X    | X    | X    | X    | X    | X    | X    | X    |   
-| Amrita Srivathsan | X    | X    |      | X    |  X   |
-| Rudolf Meier   | X       | X    |      | X    |  X   |
+| Amrita Srivathsan | X    | X    | X    | X    |  X   | X    | X    | X    | X    |    
 | Peter Cornwell | ?       | ?    |
 | Willi Egloff   | X       | X    |      |      |      | X    | 
 | Thomas Gehrig  | X       | X    |      |      |      | X    | 
