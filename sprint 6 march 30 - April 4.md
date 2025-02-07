@@ -21,11 +21,10 @@ March 30 - April 4
 | Terry Catapano | X       | X    | X    | X    | X    | X    | X    | X    | X    | 
 | Donat Agosti   | X       | X    | X    | X    | X    | X    | X    |      |  
 | Felipe Simoes  | X       | X    | X    | X    | X    | X    | X    | X    | X    |   
-| Amrita Srivathsan | X    | X    | X    | X    |  X   | X    | X    | X    | X    |    
-| Peter Cornwell | ?       | ?    |
+| Amrita Srivathsan | X    | X    | X    | X    | X    | X    | X    | X    | X    |    
 | Willi Egloff   | X       | X    |      |      |      | X    | 
 | Thomas Gehrig  | X       | X    |      |      |      | X    | 
 | Patrick Ruch   | X       |      | to be discussed
 | Julien Gobeil  | X       |      | to be discussed
-| **Total**      |         |  9   | 7    | 9    | 9    | 9     | 7    | 6   |  3  
-| Hotel nights   |         |  X   | 7    | 9    |  9   |  9    |  7    |  3   |
+| **Total**      |         |  9   | 8    | 8    | 8    | 10     | 7    | 6   |  4  
+| Hotel nights   |         |  X   | 8    | 8    | 8    | 10     | 8    | 4   |
