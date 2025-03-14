@@ -1,4 +1,6 @@
-# Date:
+# Sprint 6
+## Administration
+### Date:
 March 30 - April 4, 2025
 
 ### Hotel
