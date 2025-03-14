@@ -32,9 +32,9 @@ Building 28, Ground floor (S), Room 029
 
 | Time              |  So 30.3. | Mo 31.3 | Tu 1.4. | We 2.4. | Th 3.4. | Fr 4.4. | 
 | -------------------|-----------|-----------|-----------|----------|----------|----------|
-| Mor 10-11:30am     |           |  update   |  DA: 504/R 11-12:00        |     Disentis     | 10:30 post arcadia        |          |
+| Mor 10-11:30am     |           |  update   |  Zenodo / Biodiversity PMC        |     Plazi post arcadia    |        |          |
 | Lunch 11:30 - 1pm  |           |           |           |          |          |          |
-| Aft 1-6pm          |           |  update ctd. 3:30pm GBIF/CLB; Metope      |4pm [Lycophron](https://github.com/plazi/arcadia-project/issues/251) | Disentis   | [SIBiLS](https://docs.google.com/document/d/1HcyJhvg1TNgav8csZzYm2jYcgMNwZcxTBeloQTEE9H8/edit) |       |
+| Aft 1-6pm          |           |  update ctd.      ||    |  |       |
 | Eve                |  7:30pm dinner IBIS St.Genix | | 7 pm dinner at Bois Jolie?| | | |
 
 
