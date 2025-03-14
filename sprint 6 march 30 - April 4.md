@@ -2,7 +2,8 @@
 March 30 - April 4
 
 # Notes:
-* [BPMC notes](https://docs.google.com/document/d/1VctIL72VbpFUdLv8EEL10HumXv0k-wM19LDgut2269o/edit?tab=t.0) of topics to be achieved
+* [Notes](https://docs.google.com/document/d/1HU46uaEnJtGro6os4gZAcQUCTjBW_xTjCA_xjupWw14/edit?tab=t.0#heading=h.tp5g82iibn31)
+* [Biodiversity PMC notes](https://docs.google.com/document/d/1VctIL72VbpFUdLv8EEL10HumXv0k-wM19LDgut2269o/edit?tab=t.0) of topics to be achieved
 * [Sprint topics](https://github.com/plazi/arcadia-project/issues/263#issue-2632225560)
 
 ## Arcadia team
