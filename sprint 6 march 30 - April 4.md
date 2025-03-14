@@ -49,10 +49,9 @@ Building 28, Ground floor (S), Room 029
 | Name           | present | hotel|  So 30.3. | Mo 31.3. | Tu 1.4. | We 2.4. | Th 3.4. | Fr 4.4. | Sa 5.4. | So 6.4. | 
 | ---------------|---------|----- |----------|---------|---------|---------|---------|---------|---------|---------|   
 | Lars Nielsen   | X       |      |  
-| Jose Lopez     | X       |      |  
 | Alex Ioannidis | X       |      |  
-| Manuel da Costa | X       |      |  
 | Fatimah Zulfiqar | X       |      |  
+| Pablo Tamarit | X       |      |  
 | Yash Lamba          | X       |      |  
 | Conny Naseband | X       | X    | X    | X    | X    | X    | X    | X    |      |   
 | Johannes Hamann | X      | X    | X    | X    | X    | X    | X    | X    |  
