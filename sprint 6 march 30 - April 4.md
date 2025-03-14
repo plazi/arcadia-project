@@ -51,9 +51,9 @@ Building 28, Ground floor (S), Room 029
 | Lars Nielsen   | X       |      |  
 | Jose Lopez     | X       |      |  
 | Alex Ioannidis | X       |      |  
-| Manuel         | X       |      |  
-| Fatimah        | X       |      |  
-| Yash           | X       |      |  
+| Manuel da Costa | X       |      |  
+| Fatimah Zulfiqar | X       |      |  
+| Yash Lamba          | X       |      |  
 | Conny Naseband | X       | X    | X    | X    | X    | X    | X    | X    |      |   
 | Johannes Hamann | X      | X    | X    | X    | X    | X    | X    | X    |  
 | Guido Sautter  | X       | X    | X    | X    | X    | X    | X    | X    |      |  
