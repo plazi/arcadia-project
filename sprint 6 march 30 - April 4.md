@@ -69,6 +69,5 @@ Building 28, Ground floor (S), Room 029
 | Alexandre Flament |
 | Emilie Pasche |
 | Esteban Gaillac | 
-
 | **Total**      |         |  9   | 8    | 8    | 8    | 10     | 7    | 6   |  4  
 | Hotel nights   |         |  X   | 8    | 8    | 8    | 10     | 8    | 4   |
