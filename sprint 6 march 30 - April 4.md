@@ -18,6 +18,9 @@ Access: please [sign in](https://github.com/plazi/arcadia-project/issues/268) be
 
 Meeting room - Building 513 (CERN Datacenter), 1st floor, Room 024
 
+![image](https://github.com/user-attachments/assets/f01a9401-1682-4125-bfd5-750265b9dd60)
+
+
 #### Thu 03/04 - Fri 04/04 (⚠️ different room for these days ⚠️)
 
 Building 28, Ground floor (S), Room 029
