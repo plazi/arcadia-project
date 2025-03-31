@@ -24,7 +24,8 @@ Meeting room - Building 513 (CERN Datacenter), 1st floor, Room 024
 #### Thu 03/04 - Fri 04/04 (⚠️ different room for these days ⚠️)
 
 Building 28, Ground floor (S), Room 029
-
+![image](https://github.com/user-attachments/assets/f6fdadd8-dee8-4d8f-beec-31c7ce260db8)
+[map](https://maps.cern.ch/?xmin=2492283.55&ymin=1121029.67&xmax=2492706.62&ymax=1121267&basemap=plan&mode=2D&n=[%27MEETING%20ROOM%20(28/S-029)%27])
 ![image](https://user-images.githubusercontent.com/4609956/190636707-d4cce098-471e-4478-9a52-e29db59ca90b.png)
 
 
