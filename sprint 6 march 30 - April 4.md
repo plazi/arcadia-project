@@ -41,9 +41,9 @@ Building 28, Ground floor (S), Room 029
 
 | Time              |  So 30.3. | Mo 31.3 | Tu 1.4. | We 2.4. | Th 3.4. | Fr 4.4. | 
 | -------------------|-----------|-----------|-----------|----------|----------|----------|
-| Mor 10-11:30am     |           |  update   |  Zenodo / Biodiversity PMC        |     Plazi post arcadia    |        |          |
+| Mor 10-11:30am     |           |  update   |  Zenodo / Biodiversity PMC        |     Plazi post arcadia    |   Zenodo / Biodiversity PMC     |          |
 | Lunch 11:30 - 1pm  |           |           |           |          |          |          |
-| Aft 1-6pm          |           |  update ctd.      ||    |  |       |
+| Aft 1-6pm          |           |  update ctd.      ||    | 4-6 Arcadia review |       |
 | Eve                |  7:30pm dinner IBIS St.Genix | | 7 pm dinner at Bois Jolie?| | | |
 
 
